@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student RAF</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="p-10 font-['Arial'] text-sm text-black">
+
+  <header class="flex items-start justify-between mb-6">
+    <img src="https://sims.sti.edu/assets/images/sti-logo.png" class="w-20" alt="STI Logo">
+
+    <div class="text-center">
+      <img src="https://sims.sti.edu/assets/images/sti-logo.png" class="w-20 mx-auto" alt="STI Logo">
+      <p>Tel No. 082 2220914 or 305219</p>
+      <p>506 J.P Laurel Ave. cor. Acacia Davao City</p>
+    </div>
+
+    <p class="text-right max-w-xs">
+      STI College Davao<br>
+    </p>
+  </header>
+
+  <section class="mb-6">
+    <table class="w-full border border-black border-collapse">
+      <tr>
+        <th class="border border-black text-black py-1">Student Information</th>
+        <td class="border border-black text-black px-2 py-1">SY & Term</td>
+        <td class="border border-black text-black px-2 py-1">2526/2T</td>
+        <td class="border border-black text-black px-2 py-1">Program:</td>
+        <td class="border border-black text-black px-2 py-1">BSIT</td>
+        <td class="border border-black text-black px-2 py-1">Year Level:</td>
+        <td class="border border-black text-black px-2 py-1">3Y2</td>
+      </tr>
+
+      <tr class="text-center font-semibold">
+        <td class="border-r border-black">02000362729</td>
+        <td class="border-r border-black">CANALE </td>
+        <td class="border-r border-black">VINCE DAVID</td>
+        <td colspan="4" class="border-r border-black">ENDRINA</td>
+      </tr>
+
+      <tr class="text-center">
+        <td class="border border-black">Student No</td>
+        <td class="border border-black">Last Name</td>
+        <td class="border border-black">First Name</td>
+        <td colspan="4" class="border border-black">Middle Name</td>
+      </tr>
+
+      <tr>
+        <td colspan="7" class="border border-black font-bold text-center">
+          ACADEMIC
+        </td>
+      </tr>
+
+      <tr class="font-semibold">
+        <td class="border-r border-black px-2">Course Description</td>
+        <td class="border-r border-black px-2">Units</td>
+        <td class="border-r border-black px-2">Class / Sec</td>
+        <td class="border-r border-black px-2">Days</td>
+        <td class="border-r border-black px-2">Time</td>
+        <td class="border-r border-black px-2">Room</td>
+        <td class="border-r border-black px-2">Instructor</td>
+      </tr>
+
+      <tr>
+        <td class="border-r border-black px-2">Mobile System and Technologies</td>
+        <td class="border-r border-black px-2">3.00</td>
+        <td class="border-r border-black px-2">20730/BSIT601</td>
+        <td class="border-r border-black px-2">M</td>
+        <td class="border-r border-black px-2">12:00PM - 2:00PM</td>
+        <td class="border-r border-black px-2"></td>
+        <td class="border-r border-black px-2"></td>
+      </tr>
+
+      <tr>
+        <td class="border-r border-black px-2"></td>
+        <td class="border-r border-black px-2"></td>
+        <td class="border-r border-black px-2"></td>
+        <td class="border-r border-black px-2">Th</td>
+        <td class="border-r border-black px-2">4:30PM - 7:30PM</td>
+        <td class="border-r border-black px-2">COMLAB3</td>
+        <td class="border-r border-black px-2"></td>
+      </tr>
+
+        <tr>
+  <td class="border-r border-black px-2">Mobile System and Technologies</td>
+  <td class="border-r border-black px-2">3.00</td>
+  <td class="border-r border-black px-2">20730 / BSIT601</td>
+  <td class="border-r border-black px-2">M</td>
+  <td class="border-r border-black px-2">12:00 PM – 2:00 PM</td>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2"></td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2">Th</td>
+  <td class="border-r border-black px-2">4:30 PM – 7:30 PM</td>
+  <td class="border-r border-black px-2">COMLAB3</td>
+  <td class="border-r border-black px-2"></td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2">Web System and Technologies</td>
+  <td class="border-r border-black px-2">3.00</td>
+  <td class="border-r border-black px-2">20723 / BSIT601</td>
+  <td class="border-r border-black px-2">M</td>
+  <td class="border-r border-black px-2">4:30 PM – 6:30 PM</td>
+  <td class="border-r border-black px-2">PHYLAB</td>
+  <td class="border-r border-black px-2"></td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2">T</td>
+  <td class="border-r border-black px-2">12:00 PM – 3:00 PM</td>
+  <td class="border-r border-black px-2">COMLAB3</td>
+  <td class="border-r border-black px-2"></td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2">Management Information Systems</td>
+  <td class="border-r border-black px-2">3.00</td>
+  <td class="border-r border-black px-2">20737 / BSIT601</td>
+  <td class="border-r border-black px-2">MTh</td>
+  <td class="border-r border-black px-2">3:00 PM – 4:30 PM</td>
+  <td class="border-r border-black px-2">402</td>
+  <td class="border-r border-black px-2">UBAS, ELVI LITO</td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2">IT Capstone Project 1</td>
+  <td class="border-r border-black px-2">3.00</td>
+  <td class="border-r border-black px-2">20724 / BSIT601</td>
+  <td class="border-r border-black px-2">T</td>
+  <td class="border-r border-black px-2">3:00 PM – 5:00 PM</td>
+  <td class="border-r border-black px-2">401</td>
+  <td class="border-r border-black px-2">HILOT, JESSIEL CHRIS</td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2">Great Books</td>
+  <td class="border-r border-black px-2">3.00</td>
+  <td class="border-r border-black px-2">20727 / BSIT601</td>
+  <td class="border-r border-black px-2">W</td>
+  <td class="border-r border-black px-2">9:00 AM – 12:00 PM</td>
+  <td class="border-r border-black px-2">PHYLAB</td>
+  <td class="border-r border-black px-2">RELAVO, KIMBERLY</td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2">Information Assurance & Security</td>
+  <td class="border-r border-black px-2">3.00</td>
+  <td class="border-r border-black px-2">20733 / BSIT601</td>
+  <td class="border-r border-black px-2">W</td>
+  <td class="border-r border-black px-2">3:00 PM – 5:00 PM</td>
+  <td class="border-r border-black px-2">PHYLAB</td>
+  <td class="border-r border-black px-2">BANTIGUE, DOMINIC</td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2">(Cybersecurity Fundamentals)</td>
+  <td class="border-r border-black"></td>
+  <td class="border-r border-black"></td>
+  <td class="border-r border-black px-2">Th</td>
+  <td class="border-r border-black px-2">9:00 AM – 12:00 PM</td>
+  <td class="border-r border-black px-2">COMLAB3</td>
+  <td class="border-r border-black px-2">RAMOS</td>
+</tr>
+
+<tr>
+  <td class="border-r border-black px-2">Programming Languages</td>
+  <td class="border-r border-black px-2">3.00</td>
+  <td class="border-r border-black px-2">23502 / BSIT601</td>
+  <td class="border-r border-black px-2">S</td>
+  <td class="border-r border-black px-2">8:00 AM – 10:00 AM</td>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2"></td>
+</tr>
+
+<tr>
+  <td class="border-r border-black"></td>
+  <td class="border-r border-black"></td>
+  <td class="border-r border-black"></td>
+  <td class="border-r border-black px-2">S</td>
+  <td class="border-r border-black px-2">10:00 AM – 1:00 PM</td>
+  <td class="border-r border-black px-2"></td>
+  <td class="border-r border-black px-2"></td>
+</tr>
+
+<tr class="font-bold">
+  <td class="border border-black text-right px-2">Total Units</td>
+  <td class="border border-black px-2">21.00</td>
+  <td colspan="5" class="border border-black"></td>
+</tr>
+
+      <tr class="font-bold">
+        <td class="border border-black text-right px-2">Total Units</td>
+        <td class="border border-black px-2">21.00</td>
+        <td colspan="5" class="border border-black"></td>
+      </tr>
+    </table>
+  </section>
+
+<section class="mt-10">
+  <table class="w-full border-t border-b border-black text-sm">
+
+    <tr>
+      <td colspan="4" class="text-center font-bold py-2 border-b border-black">
+        FINANCIAL
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="2" class="py-2 px-4 text-center">
+        Student Group: <strong>Tertiary - Low Monthly Payment</strong>
+      </td>
+
+      <td colspan="2" class="py-2 px-4 font-bold text-center">
+        PAYMENTS AND OTHER ADJUSTMENTS
+      </td>
+    </tr>
+
+    <tr>
+      <td class="px-6 pt-4 font-bold">CHARGES for 2025-2026/2nd Term</td>
+      <td></td>
+      <td class="px-6 pt-4 font-bold">PAYMENT</td>
+      <td class="text-right px-6 pt-4">(5,000.00)</td>
+    </tr>
+
+    <tr>
+      <td class="px-6">TUITION FEES</td>
+      <td class="text-right px-6">27,183.00</td>
+      <td class="px-6">SPONSORSHIPS</td>
+      <td class="text-right px-6">-</td>
+    </tr>
+
+    <tr>
+      <td class="px-6">OTHER SCHOOL FEES</td>
+      <td class="text-right px-6">7,119.00</td>
+      <td class="px-6">REFUND</td>
+      <td class="text-right px-6">-</td>
+    </tr>
+
+    <tr>
+      <td class="px-6">MISCELLANEOUS FEES</td>
+      <td class="text-right px-6">3,350.00</td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td class="px-6 font-bold pt-3">Total Assessment</td>
+      <td class="text-right px-6 font-bold pt-3 border-t border-black">
+        37,652.00
+      </td>
+
+      <td class="px-6 font-bold pt-3">Net Balance</td>
+      <td class="text-right px-6 font-bold pt-3 border-t border-black">
+        32,652.00
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="4" class="py-4"></td>
+    </tr>
+
+    <tr>
+      <td colspan="2" class="px-6 font-bold">PAYMENT SCHEDULE</td>
+      <td colspan="2"></td>
+    </tr>
+
+    <tr>
+      <td class="px-6">UPON ENROLLMENT</td>
+      <td class="text-right px-6">7,547.76</td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td class="px-6">February 16, 2026</td>
+      <td class="text-right px-6">6,276.06</td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td class="px-6">March 16, 2026</td>
+      <td class="text-right px-6">6,276.06</td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td class="px-6">May 02, 2026</td>
+      <td class="text-right px-6">6,276.06</td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td class="px-6">June 01, 2026</td>
+      <td class="text-right px-6">6,276.06</td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td class="px-6 font-bold pt-3">Total Assessment</td>
+      <td class="text-right px-6 font-bold pt-3 border-t border-black">
+        37,652.00
+      </td>
+      <td colspan="2"></td>
+    </tr>
+
+    <tr>
+      <td colspan="4" class="text-xs font-bold pt-6 px-4">
+        THIS IS A SYSTEM GENERATED ASSESSMENT. ANY ALTERATION BY THE SCHOOL OR ANY OTHER PARTY IS NOT AUTHORIZED AND MAY
+        RENDER YOUR ENROLLMENT AND PAYMENT INVALID. PLEASE REPORT ANY VIOLATION TO REPORT@STI.EDU
+      </td>
+    </tr>
+
+  </table>
+</section>
+
